@@ -1,0 +1,4 @@
+Files
+*.wav
+nltk_data
+__pycache__
