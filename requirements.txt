@@ -1,0 +1,15 @@
+speech_recognition
+nltk
+scipy
+numpy
+google_trans_new
+flask
+flask_cors
+wave
+subprocess
+os
+audioop
+werkzeug
+io
+json
+pydub
