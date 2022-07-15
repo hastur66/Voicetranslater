@@ -1,10 +1,10 @@
-speech_recognition
+SpeechRecognition
 nltk
 scipy
 numpy
-google_trans_new
+google-trans-new
 flask
-flask_cors
+Flask-Cors
 wave
 subprocess
 os
