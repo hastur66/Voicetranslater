@@ -6,11 +6,7 @@ google-trans-new
 flask
 Flask-Cors
 wave
-subprocess
-os
 audioop
 werkzeug
-io
-json
 pydub
 gunicorn
